@@ -1,2 +1,2 @@
 # climb-adventure-dev
-Complete pack of assets - 2D game created with Unity engine.
+2D physics-based game created with Unity engine. Main objective is to drive as far through progressively difficult racing stages as possible.
